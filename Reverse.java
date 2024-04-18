@@ -3,7 +3,7 @@ package javaproject;
 public class Reverse {
 	
 	//sample commit
-	//sample commit for may release branch
+	//sample commit for may release branch - old
 	 public static String reverseString(String str) {
 			String reversed=" ";  //empty string to store the reversed string
 			for(int i=str.length()-1;i>=0;i--) {
