@@ -1,6 +1,9 @@
 package javaproject;
 
 public class Reverse {
+	
+	//sample commit
+	
 	 public static String reverseString(String str) {
 			String reversed=" ";  //empty string to store the reversed string
 			for(int i=str.length()-1;i>=0;i--) {
